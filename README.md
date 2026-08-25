@@ -20,14 +20,14 @@ Each program is:
 - Committed separately using Git
 - Pushed and maintained on GitHub
 
-This repository also serves as practical experience with **Git and GitHub version control**.
+This repository also provides practical experience with **Git and GitHub version control**.
 
 ---
 
 ## 📚 Programs Included
 
 | No. | Program | Concepts Covered |
-|:---:|---|---|
+|---:|---|---|
 | 01 | [Student Details](01_student_details.py) | User Input, Variables, `sys` Module |
 | 02 | [Data Types](02_data_types.py) | `str`, `int`, `float`, `bool`, `type()` |
 | 03 | [Arithmetic Operations](03_arithmetic_operations.py) | Operators, Conditional Statements, Error Handling |
@@ -50,7 +50,7 @@ Through these programs, I am practicing the following fundamental programming co
 - Handling special cases such as division by zero
 - Applying mathematical formulas programmatically
 - Converting data between different types
-- Writing readable and structured beginner-level Python programs
+- Writing readable and structured Python programs
 - Using Git for version control
 - Maintaining a project on GitHub
 
